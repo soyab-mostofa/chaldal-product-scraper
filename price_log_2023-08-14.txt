@@ -1,0 +1,300 @@
+2023-08-14 15:02:17,765 - INFO - Product Name: Rupchanda Fortified Soyabean Oil
+2023-08-14 15:02:17,765 - INFO - Product Price: ৳ 873
+2023-08-14 15:02:17,766 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,766 - INFO - Product Name: Chaldal Premium Beef Bone In ± 50 gm
+2023-08-14 15:02:17,766 - INFO - Product Price: ৳ 880
+2023-08-14 15:02:17,766 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,766 - INFO - Product Name: Chaldal Premium Roast Chicken ± 50 gm
+2023-08-14 15:02:17,766 - INFO - Product Price: ৳ 420
+2023-08-14 15:02:17,766 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,766 - INFO - Product Name: Chaldal Premium Beef Kuruli Bone in ± 50 gm
+2023-08-14 15:02:17,766 - INFO - Product Price: ৳ 1,200
+2023-08-14 15:02:17,766 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,766 - INFO - Product Name: Haque Mr. Cookie Butter Coconut Biscuit
+2023-08-14 15:02:17,766 - INFO - Product Price: ৳ 10
+2023-08-14 15:02:17,766 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,766 - INFO - Product Name: Chaldal Premium Beef Front Leg Bone in ± 50 gm
+2023-08-14 15:02:17,766 - INFO - Product Price: ৳ 929
+2023-08-14 15:02:17,767 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,767 - INFO - Product Name: Aarong Dairy Sour Curd
+2023-08-14 15:02:17,767 - INFO - Product Price: ৳ 110+৳3
+2023-08-14 15:02:17,767 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,767 - INFO - Product Name: Chicken Eggs (Layer)
+2023-08-14 15:02:17,767 - INFO - Product Price: ৳ 169
+2023-08-14 15:02:17,767 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,767 - INFO - Product Name: Bashundhara Flour (Atta)
+2023-08-14 15:02:17,767 - INFO - Product Price: ৳ 130
+2023-08-14 15:02:17,767 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,767 - INFO - Product Name: Deshi Peyaj (Local Onion) ± 50 gm
+2023-08-14 15:02:17,767 - INFO - Product Price: ৳ 95
+2023-08-14 15:02:17,767 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,767 - INFO - Product Name: Potato Regular (± 50 gm)
+2023-08-14 15:02:17,767 - INFO - Product Price: ৳ 45
+2023-08-14 15:02:17,767 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,768 - INFO - Product Name: Loose White Sugar
+2023-08-14 15:02:17,768 - INFO - Product Price: ৳ 140
+2023-08-14 15:02:17,768 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,768 - INFO - Product Name: Red Tomato ± 25 gm
+2023-08-14 15:02:17,768 - INFO - Product Price: ৳ 150
+2023-08-14 15:02:17,768 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,768 - INFO - Product Name: Roshun (Garlic Imported) ± 25 gm
+2023-08-14 15:02:17,768 - INFO - Product Price: ৳ 130
+2023-08-14 15:02:17,768 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,768 - INFO - Product Name: Lal Peyaj (Onion Red Imported) ± 50 gm
+2023-08-14 15:02:17,768 - INFO - Product Price: ৳ 70
+2023-08-14 15:02:17,768 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,768 - INFO - Product Name: Kacha Morich (Green Chilli) ±12 gm
+2023-08-14 15:02:17,768 - INFO - Product Price: ৳ 70
+2023-08-14 15:02:17,768 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,768 - INFO - Product Name: Coriander Leaves (Dhonia Pata) ± 10 gm
+2023-08-14 15:02:17,768 - INFO - Product Price: ৳ 29
+2023-08-14 15:02:17,768 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,769 - INFO - Product Name: Boro Alu (Big Diamond Potato) ± 50 gm
+2023-08-14 15:02:17,769 - INFO - Product Price: ৳ 45
+2023-08-14 15:02:17,769 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,769 - INFO - Product Name: Fresh Super Premium (Vacuum) Salt
+2023-08-14 15:02:17,769 - INFO - Product Price: ৳ 42
+2023-08-14 15:02:17,769 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,769 - INFO - Product Name: Potol (Pointed Gourd) ± 25 gm
+2023-08-14 15:02:17,769 - INFO - Product Price: ৳ 29
+2023-08-14 15:02:17,769 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,769 - INFO - Product Name: Dheros (Ladies Finger) ± 25 gm
+2023-08-14 15:02:17,769 - INFO - Product Price: ৳ 35
+2023-08-14 15:02:17,769 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,769 - INFO - Product Name: Fresh Refined Sugar
+2023-08-14 15:02:17,769 - INFO - Product Price: ৳ 140
+2023-08-14 15:02:17,769 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,769 - INFO - Product Name: Deshi Ada (Local Ginger) ± 25 gm
+2023-08-14 15:02:17,769 - INFO - Product Price: ৳ 199
+2023-08-14 15:02:17,769 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,770 - INFO - Product Name: Deshi Shosha (Local Cucumber) ± 25 gm
+2023-08-14 15:02:17,770 - INFO - Product Price: ৳ 49
+2023-08-14 15:02:17,770 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,770 - INFO - Product Name: Nazirshail Rice Premium (Half Boiled) ± 50 gm
+2023-08-14 15:02:17,770 - INFO - Product Price: ৳ 419
+2023-08-14 15:02:17,770 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,770 - INFO - Product Name: Lal Shak (Red Spinach)
+2023-08-14 15:02:17,770 - INFO - Product Price: ৳ 35
+2023-08-14 15:02:17,770 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,770 - INFO - Product Name: Aarong Dairy Pasteurized Liquid Milk
+2023-08-14 15:02:17,770 - INFO - Product Price: ৳ 95
+2023-08-14 15:02:17,770 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,770 - INFO - Product Name: Deshi Gajor (Local Carrot) ± 25 gm
+2023-08-14 15:02:17,770 - INFO - Product Price: ৳ 50
+2023-08-14 15:02:17,770 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,770 - INFO - Product Name: Moshur Dal (Imported)
+2023-08-14 15:02:17,770 - INFO - Product Price: ৳ 125
+2023-08-14 15:02:17,770 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,771 - INFO - Product Name: Lal Alu (Red Potato Cardinal) ± 50 gm
+2023-08-14 15:02:17,771 - INFO - Product Price: ৳ 49
+2023-08-14 15:02:17,771 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,771 - INFO - Product Name: Chinigura Rice Premium
+2023-08-14 15:02:17,771 - INFO - Product Price: ৳ 149
+2023-08-14 15:02:17,771 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,771 - INFO - Product Name: Chinigura Rice Premium 1 Kg (Bundle Offer)
+2023-08-14 15:02:17,771 - INFO - Product Price: ৳ 745
+2023-08-14 15:02:17,771 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,771 - INFO - Product Name: Banana Chompa (Ready To Eat)
+2023-08-14 15:02:17,771 - INFO - Product Price: ৳ 30
+2023-08-14 15:02:17,771 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,771 - INFO - Product Name: Shagor Kola (Banana Sagor)
+2023-08-14 15:02:17,771 - INFO - Product Price: ৳ 49
+2023-08-14 15:02:17,771 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,772 - INFO - Product Name: Misti Kumra Fali (Sweet Pumpkin Slice) ± 40 gm
+2023-08-14 15:02:17,772 - INFO - Product Price: ৳ 45
+2023-08-14 15:02:17,772 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,772 - INFO - Product Name: Miniket Rice Standard (Boiled) ± 50 gm
+2023-08-14 15:02:17,772 - INFO - Product Price: ৳ 319
+2023-08-14 15:02:17,772 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,772 - INFO - Product Name: Bashundhara Toilet Tissue
+2023-08-14 15:02:17,772 - INFO - Product Price: ৳ 100
+2023-08-14 15:02:17,772 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,772 - INFO - Product Name: Lomba Lebu (Long Lemon)
+2023-08-14 15:02:17,772 - INFO - Product Price: ৳ 40
+2023-08-14 15:02:17,772 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,772 - INFO - Product Name: Moshur Dal (Deshi)
+2023-08-14 15:02:17,772 - INFO - Product Price: ৳ 149
+2023-08-14 15:02:17,772 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,773 - INFO - Product Name: Mug Dal
+2023-08-14 15:02:17,773 - INFO - Product Price: ৳ 75
+2023-08-14 15:02:17,773 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,773 - INFO - Product Name: Dekko Combo Pasta (Buy 2 Get 1 Free)
+2023-08-14 15:02:17,773 - INFO - Product Price: ৳ 100
+2023-08-14 15:02:17,773 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,773 - INFO - Product Name: Cocola Egg Noodles
+2023-08-14 15:02:17,773 - INFO - Product Price: ৳ 20
+2023-08-14 15:02:17,773 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,773 - INFO - Product Name: Chichinga (Snake Gourd) ± 25 gm
+2023-08-14 15:02:17,773 - INFO - Product Price: ৳ 40
+2023-08-14 15:02:17,773 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,773 - INFO - Product Name: Cumin (Jira)
+2023-08-14 15:02:17,773 - INFO - Product Price: ৳ 119
+2023-08-14 15:02:17,773 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,773 - INFO - Product Name: Malta ± 50 gm
+2023-08-14 15:02:17,774 - INFO - Product Price: ৳ 299
+2023-08-14 15:02:17,774 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,774 - INFO - Product Name: Kacha Pepe (Green Papaya) ± 70 gm
+2023-08-14 15:02:17,774 - INFO - Product Price: ৳ 85
+2023-08-14 15:02:17,774 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,774 - INFO - Product Name: Teer Fortified Soyabean Oil
+2023-08-14 15:02:17,774 - INFO - Product Price: ৳ 873
+2023-08-14 15:02:17,774 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,774 - INFO - Product Name: Miniket Rice Premium (Boiled) ± 50 gm
+2023-08-14 15:02:17,774 - INFO - Product Price: ৳ 380
+2023-08-14 15:02:17,774 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,774 - INFO - Product Name: Chicken Eggs (Layer)
+2023-08-14 15:02:17,774 - INFO - Product Price: ৳ 85
+2023-08-14 15:02:17,774 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,774 - INFO - Product Name: Palong Shak (Palong Spinach)
+2023-08-14 15:02:17,775 - INFO - Product Price: ৳ 45
+2023-08-14 15:02:17,775 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,775 - INFO - Product Name: Lomba Kalo Begun (Long Brinjal Black) ± 25 gm
+2023-08-14 15:02:17,775 - INFO - Product Price: ৳ 35
+2023-08-14 15:02:17,775 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,775 - INFO - Product Name: Shosha (Cucumber) ± 25 gm
+2023-08-14 15:02:17,775 - INFO - Product Price: ৳ 45
+2023-08-14 15:02:17,775 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,775 - INFO - Product Name: Deshi Roshun (Garlic Local) ±25 gm
+2023-08-14 15:02:17,775 - INFO - Product Price: ৳ 129
+2023-08-14 15:02:17,775 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,775 - INFO - Product Name: Borboti (Long Bean) ± 25 gm
+2023-08-14 15:02:17,775 - INFO - Product Price: ৳ 70
+2023-08-14 15:02:17,775 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,776 - INFO - Product Name: Harpic Flushmatic Marine In-Cistern Toilet Cleaner Blocks 50 gm
+2023-08-14 15:02:17,776 - INFO - Product Price: ৳ 280
+2023-08-14 15:02:17,776 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,776 - INFO - Product Name: Cinnamon (Daruchini) Whole
+2023-08-14 15:02:17,776 - INFO - Product Price: ৳ 59
+2023-08-14 15:02:17,776 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,776 - INFO - Product Name: Harpic Flushmatic Marine In-Cistern Toilet Cleaner Block 50 gm
+2023-08-14 15:02:17,776 - INFO - Product Price: ৳ 150
+2023-08-14 15:02:17,776 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,776 - INFO - Product Name: Arla Dano Daily Pushti Milk Powder
+2023-08-14 15:02:17,776 - INFO - Product Price: ৳ 380
+2023-08-14 15:02:17,776 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,776 - INFO - Product Name: Teer Flour (Atta)
+2023-08-14 15:02:17,776 - INFO - Product Price: ৳ 120
+2023-08-14 15:02:17,776 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,777 - INFO - Product Name: Diploma Instant Full Cream Milk Powder
+2023-08-14 15:02:17,777 - INFO - Product Price: ৳ 425
+2023-08-14 15:02:17,777 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,777 - INFO - Product Name: ACI Pure Salt
+2023-08-14 15:02:17,777 - INFO - Product Price: ৳ 22
+2023-08-14 15:02:17,777 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,777 - INFO - Product Name: Teer Fortified Soyabean Oil
+2023-08-14 15:02:17,777 - INFO - Product Price: ৳ 358
+2023-08-14 15:02:17,777 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,777 - INFO - Product Name: Teer Fortified Soyabean Oil
+2023-08-14 15:02:17,777 - INFO - Product Price: ৳ 179
+2023-08-14 15:02:17,777 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,777 - INFO - Product Name: Guava Premium (± 50 gm)
+2023-08-14 15:02:17,777 - INFO - Product Price: ৳ 100
+2023-08-14 15:02:17,777 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,778 - INFO - Product Name: Gol Lebu (Round Lemon)
+2023-08-14 15:02:17,778 - INFO - Product Price: ৳ 35
+2023-08-14 15:02:17,778 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,778 - INFO - Product Name: Green Capsicum ± 15 gm
+2023-08-14 15:02:17,778 - INFO - Product Price: ৳ 119
+2023-08-14 15:02:17,778 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,778 - INFO - Product Name: Chashi Aromatic Chinigura Rice
+2023-08-14 15:02:17,778 - INFO - Product Price: ৳ 180
+2023-08-14 15:02:17,778 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,778 - INFO - Product Name: Nestle Maggi 2-Minute Masala Instant Noodles
+2023-08-14 15:02:17,778 - INFO - Product Price: ৳ 175
+2023-08-14 15:02:17,778 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,778 - INFO - Product Name: Fresh Instant Full Cream Milk Powder
+2023-08-14 15:02:17,778 - INFO - Product Price: ৳ 425
+2023-08-14 15:02:17,778 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,778 - INFO - Product Name: Ispahani Mirzapore Best Leaf Tea
+2023-08-14 15:02:17,779 - INFO - Product Price: ৳ 210
+2023-08-14 15:02:17,779 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,779 - INFO - Product Name: Badhakopi (Cabbage)
+2023-08-14 15:02:17,779 - INFO - Product Price: ৳ 65
+2023-08-14 15:02:17,779 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,779 - INFO - Product Name: Harpic Liquid Toilet Cleaner Original
+2023-08-14 15:02:17,779 - INFO - Product Price: ৳ 200
+2023-08-14 15:02:17,779 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,779 - INFO - Product Name: Radhuni Turmeric (Holud) Powder
+2023-08-14 15:02:17,779 - INFO - Product Price: ৳ 100
+2023-08-14 15:02:17,779 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,779 - INFO - Product Name: Radhuni Chilli (Morich) Powder
+2023-08-14 15:02:17,779 - INFO - Product Price: ৳ 170
+2023-08-14 15:02:17,779 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,779 - INFO - Product Name: Cock Vermicelli (Shemai)
+2023-08-14 15:02:17,780 - INFO - Product Price: ৳ 45
+2023-08-14 15:02:17,780 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,780 - INFO - Product Name: Dettol Bathing Soap Bar Original
+2023-08-14 15:02:17,780 - INFO - Product Price: ৳ 15
+2023-08-14 15:02:17,780 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,780 - INFO - Product Name: Harpic Liquid Toilet Cleaner Original (Free Mug)
+2023-08-14 15:02:17,780 - INFO - Product Price: ৳ 120
+2023-08-14 15:02:17,780 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,780 - INFO - Product Name: Chola Boot (Chick Peas) Dal
+2023-08-14 15:02:17,780 - INFO - Product Price: ৳ 119
+2023-08-14 15:02:17,780 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,780 - INFO - Product Name: Trix Dishwashing Liquid Lemon Bottle
+2023-08-14 15:02:17,781 - INFO - Product Price: ৳ 150
+2023-08-14 15:02:17,781 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,781 - INFO - Product Name: Chickpea Flour (Boot Beshon)
+2023-08-14 15:02:17,781 - INFO - Product Price: ৳ 49
+2023-08-14 15:02:17,781 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,781 - INFO - Product Name: Chaldal Premium Broiler Chicken Skin ± 20 gm
+2023-08-14 15:02:17,781 - INFO - Product Price: ৳ 120
+2023-08-14 15:02:17,781 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,781 - INFO - Product Name: Trix Dishwashing Liquid Lemon Refill
+2023-08-14 15:02:17,781 - INFO - Product Price: ৳ 70
+2023-08-14 15:02:17,781 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,781 - INFO - Product Name: Harpic Liquid Toilet Cleaner Original
+2023-08-14 15:02:17,781 - INFO - Product Price: ৳ 160
+2023-08-14 15:02:17,781 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,782 - INFO - Product Name: Dettol Original Soap Bar 75 gm (Free Tiffin Box)
+2023-08-14 15:02:17,782 - INFO - Product Price: ৳ 180
+2023-08-14 15:02:17,782 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,782 - INFO - Product Name: Dettol Handwash Cool Liquid Pump
+2023-08-14 15:02:17,782 - INFO - Product Price: ৳ 110
+2023-08-14 15:02:17,782 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,782 - INFO - Product Name: Dettol Handwash Re-Energize Liquid Refill
+2023-08-14 15:02:17,782 - INFO - Product Price: ৳ 75
+2023-08-14 15:02:17,782 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,782 - INFO - Product Name: Dettol Bathing Soap Bar Original
+2023-08-14 15:02:17,782 - INFO - Product Price: ৳ 85
+2023-08-14 15:02:17,782 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,782 - INFO - Product Name: Lizol Floor Cleaner Floral Disinfectant Surface
+2023-08-14 15:02:17,782 - INFO - Product Price: ৳ 295
+2023-08-14 15:02:17,782 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,783 - INFO - Product Name: Dettol Handwash Original Liquid Refill
+2023-08-14 15:02:17,783 - INFO - Product Price: ৳ 75
+2023-08-14 15:02:17,783 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,783 - INFO - Product Name: Dettol Antiseptic Disinfectant Liquid
+2023-08-14 15:02:17,783 - INFO - Product Price: ৳ 175
+2023-08-14 15:02:17,783 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,783 - INFO - Product Name: Dettol Handwash Skincare Liquid Pump
+2023-08-14 15:02:17,783 - INFO - Product Price: ৳ 110
+2023-08-14 15:02:17,783 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,783 - INFO - Product Name: Fulkopi (Cauliflower)
+2023-08-14 15:02:17,783 - INFO - Product Price: ৳ 79
+2023-08-14 15:02:17,783 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,783 - INFO - Product Name: Harpic Liquid Toilet Cleaner 750 ml & Harpic Liquid Bathroom Cleaner 500 ml (Combo Offer)
+2023-08-14 15:02:17,783 - INFO - Product Price: ৳ 290
+2023-08-14 15:02:17,783 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,784 - INFO - Product Name: Fresh Flour (Atta)
+2023-08-14 15:02:17,784 - INFO - Product Price: ৳ 120
+2023-08-14 15:02:17,784 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,784 - INFO - Product Name: Vim Dishwashing Bar
+2023-08-14 15:02:17,784 - INFO - Product Price: ৳ 15
+2023-08-14 15:02:17,784 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,784 - INFO - Product Name: Vim Dishwashing Bar
+2023-08-14 15:02:17,784 - INFO - Product Price: ৳ 40
+2023-08-14 15:02:17,784 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,784 - INFO - Product Name: ACI Pure Salt
+2023-08-14 15:02:17,784 - INFO - Product Price: ৳ 42
+2023-08-14 15:02:17,784 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,784 - INFO - Product Name: Wheel Washing Powder 2 in 1 Clean & Fresh
+2023-08-14 15:02:17,785 - INFO - Product Price: ৳ 145
+2023-08-14 15:02:17,785 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,785 - INFO - Product Name: Rin Advanced Detergent Powder
+2023-08-14 15:02:17,785 - INFO - Product Price: ৳ 95
+2023-08-14 15:02:17,785 - INFO - --------------------------------------------------
+2023-08-14 15:02:17,785 - INFO - Product Name: Rin Advanced Detergent Powder 500 gm (Bundle Offer)
+2023-08-14 15:02:17,785 - INFO - Product Price: ৳ 570
+2023-08-14 15:02:17,785 - INFO - --------------------------------------------------
